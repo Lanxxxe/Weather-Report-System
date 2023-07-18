@@ -1,0 +1,24 @@
+[
+	{
+	  "name": "Tacloban",
+	  "local_names": {
+		"es": "Tacloban",
+		"ja": "\u30bf\u30af\u30ed\u30d0\u30f3",
+		"ru": "\u0422\u0430\u043a\u043b\u043e\u0431\u0430\u043d",
+		"sr": "\u0422\u0430\u043a\u043b\u043e\u0431\u0430\u043d",
+		"tl": "Tacloban",
+		"en": "Tacloban",
+		"zh": "\u72ec\u9c81\u4e07"
+	  },
+	  "lat": 11.2430274,
+	  "lon": 125.0081402,
+	  "country": "PH"
+	},
+	{
+	  "name": "Tacloban",
+	  "lat": 9.2235592,
+	  "lon": 123.548949,
+	  "country": "PH",
+	  "state": "Siquijor"
+	}
+  ]
